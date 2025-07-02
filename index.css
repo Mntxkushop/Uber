@@ -1,0 +1,45 @@
+.hello{
+
+
+font-size: 35px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    margin-left: 45px;
+
+
+}
+
+input{
+
+width: 350px;
+height: 50px;
+border-radius: 5px;
+}
+
+button{
+
+background-color: black;
+height: 50px;
+width: 120px;
+border-radius: 5px;
+color: white;
+
+}
+
+#Hello2{
+
+font-size: 20px;
+color: black;
+
+}
+
+.your{
+
+width: 550px;
+height: 400px;
+position: absolute;
+margin-left: 550px;
+margin-top: 10px;
+
+}
+
